@@ -1,0 +1,2 @@
+services:
+    persons: http://localhost:8095/persons
